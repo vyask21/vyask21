@@ -34,7 +34,9 @@
   <img width="12" />
   <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" alt="react logo"  />
+  <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" height="30" alt="typescript logo"  />
+  <img width="12" />  
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" height="30" alt="node logo"  />
   <img width="12" />
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" height="30" alt="mysql logo"  />
   <img width="12" />
