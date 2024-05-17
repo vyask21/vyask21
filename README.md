@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋! I'm Vyas Kumar</h2>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=28&pause=1000&color=000000&center=true&multiline=true&random=false&width=1200&height=100&lines=I'm+a+passionate+developer+%26+data+enthusiast.+Welcome+to+my+playground!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=28&pause=1000&center=true&multiline=true&random=false&width=1200&height=100&lines=I'm+a+passionate+developer+%26+data+enthusiast.+Welcome+to+my+playground!" alt="Typing SVG" /></a>
 
 ###
 
