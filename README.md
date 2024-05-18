@@ -11,10 +11,14 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Check out</h3>
 <p align="left">
+<!---
 <a href="https://linkedin.com/in/vyas-kumar-2101" target="_blank" rel="noopener noreferrer"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="vyas-kumar-2101" height="40" width="40" /></a>
 <a href=mailto:“vyasks01@gmail.com” target="_blank" rel="noopener noreferrer"><img align="center" src="https://skillicons.dev/icons?i=gmail&theme=light" alt="vyas-kumar-2101" height="40" width="40" /></a>
+-->
+<a href="https://linkedin.com/in/vyas-kumar-2101" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href=mailto:“vyasks01@gmail.com” target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"" /></a>
 </p>
 
 
