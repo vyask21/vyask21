@@ -50,7 +50,7 @@
   <img width="12" />
   <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?color=currentColor" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="30" alt="msazure logo"  />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="30" alt="msazure logo"  />
   <img width="12" />    
 </div>
 
