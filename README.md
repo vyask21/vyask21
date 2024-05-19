@@ -1,3 +1,4 @@
+<p align="center"><img height="10%" width="50%" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" /></p>
 <h1 align="center">Hi there👋! I'm Vyas Kumar</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=28&pause=1000&center=true&multiline=true&random=false&width=1200&height=100&lines=I'm+a+passionate+developer+%26+data+enthusiast.+Welcome+to+my+playground!" alt="Typing SVG" /></a>
 
