@@ -28,8 +28,8 @@
 <div align="center">
   <!--- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vyask21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false" height = "150" alt = "languages graph" / > -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyask21&locale=en&&hide=css,scss,html&layout=compact&card_width=320&langs_count=8&hide_border=false" height = "150" alt = "languages graph" / >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyask21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <!--- <img src="https://streak-stats.demolab.com/?user=vyask21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <! --- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyask21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com/?user=vyask21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <!--- <img src="https://github-readme-stats.vercel.app/api?username=vyask21&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="stats rank"  /> -->
   <!--- <img src="https://leetcard.jacoblin.cool/vxv6079?theme=neutral" height="150" alt="leetcode"  /> -->
 </div>
